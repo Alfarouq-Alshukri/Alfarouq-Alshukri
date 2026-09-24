@@ -1,4 +1,4 @@
-<br>Computer Science student at King Saud University<br><br>Project Lead and Flutter developer building the GDG KSU community app<br><br>I work with Flutter, Dart, Firebase, Riverpod, and Cloud Functions<br>
+<br>CS student (AI track) @ King Saud University<br><br>Project Lead and Flutter developer building the GDG KSU community app<br><br>I work with Flutter, Dart, Firebase, Riverpod, and Cloud Functions<br>
 
 
 # 💻 Tech Stack:
