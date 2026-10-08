@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="384" viewBox="0 0 820 384" role="img" aria-label="Language breakdown: Dart 62.3%, JavaScript 25.8%, Java 5.7%, C++ 2.1%, Python 1.7%">
+<rect width="820" height="100%" fill="#0d1117" rx="16"/>
+<rect x="1" y="1" width="818" height="99.5%" fill="none" stroke="#30363d" rx="15"/>
+<text x="30" y="44" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold">Top 5 Languages</text>
+<text x="30" y="71" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">Public + explicitly authorized private repositories</text>
+<text x="790" y="44" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">Oct 2026</text>
+<text x="30" y="129" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16">Dart</text>
+<rect x="260" y="112" width="415" height="21" fill="#21262d" rx="5"/>
+<rect x="260" y="112" width="258.6" height="21" fill="#58a6ff" rx="5"/>
+<text x="788" y="129" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">62.3%</text>
+<text x="30" y="175" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16">JavaScript</text>
+<rect x="260" y="158" width="415" height="21" fill="#21262d" rx="5"/>
+<rect x="260" y="158" width="107.0" height="21" fill="#3fb950" rx="5"/>
+<text x="788" y="175" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">25.8%</text>
+<text x="30" y="221" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16">Java</text>
+<rect x="260" y="204" width="415" height="21" fill="#21262d" rx="5"/>
+<rect x="260" y="204" width="23.7" height="21" fill="#d2a8ff" rx="5"/>
+<text x="788" y="221" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">5.7%</text>
+<text x="30" y="267" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16">C++</text>
+<rect x="260" y="250" width="415" height="21" fill="#21262d" rx="5"/>
+<rect x="260" y="250" width="8.8" height="21" fill="#f2cc60" rx="5"/>
+<text x="788" y="267" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">2.1%</text>
+<text x="30" y="313" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16">Python</text>
+<rect x="260" y="296" width="415" height="21" fill="#21262d" rx="5"/>
+<rect x="260" y="296" width="7.1" height="21" fill="#ff7b72" rx="5"/>
+<text x="788" y="313" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">1.7%</text>
+</svg>
