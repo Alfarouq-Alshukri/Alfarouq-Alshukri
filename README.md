@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Alfarouq 👋</h1>
-
+# About Me:
 <p align="center">
   <strong>Computer Science (AI Track) @ King Saud University</strong><br>
   GPA: <strong>5.00 / 5.00</strong> · Flutter Developer · Project Lead
